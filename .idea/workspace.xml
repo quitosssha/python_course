@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec99791-4950-4240-9e37-3b5f47484065" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1/task1.py" afterDir="false" />
+    <list default="true" id="3ec99791-4950-4240-9e37-3b5f47484065" name="Changes" comment="mod1">
+      <change afterPath="$PROJECT_DIR$/mod2/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "quitosssha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/quitosssha/python_course.git",
+    "accountId": "8d3aaac6-4eff-40f7-8cbe-6c491f5f68e3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -45,11 +50,18 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Debug",
     "Python.task1.executor": "Run",
+    "Python.task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Urfu/!3_course/python/mod2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Urfu\!3_course\python\mod2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1762873354534</updated>
     </task>
+    <task id="LOCAL-00001" summary="mod1">
+      <option name="closed" value="true" />
+      <created>1762876128889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762876128889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mod1" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod1" />
   </component>
 </project>
